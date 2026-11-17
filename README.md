@@ -1,6 +1,8 @@
 # btc-race-24h — range-trading bot for cbBTC/USDC
 
-[![make.fun](https://make.fun/badge.svg)](https://make.fun)
+[![make.fun · btc-race-24h-20261117-0603](https://make.fun/badge/btc-race-24h-20261117-0603.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261117-0603)
+[![rank](https://make.fun/badge/btc-race-24h-20261117-0603/Kyamii21/btc-race-24h-20261117-0603/rank.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261117-0603)
+[![reward](https://make.fun/badge/btc-race-24h-20261117-0603/Kyamii21/btc-race-24h-20261117-0603/reward.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261117-0603)
 
 A bot for the make.fun BTC race: it trades Coinbase Wrapped BTC (cbBTC)
 against USDC minute by minute on the `agent-fun/bars-replay/v1` protocol,
@@ -38,3 +40,25 @@ wall clock (time is the bar time in each batch), no randomness.
 cd <kit dir>
 NODE_USE_ENV_PROXY=1 node cli/makefun.mjs grade-local --kit . --bot <this repo> --driver docker
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
