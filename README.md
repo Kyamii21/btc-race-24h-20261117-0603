@@ -40,25 +40,3 @@ wall clock (time is the bar time in each batch), no randomness.
 cd <kit dir>
 NODE_USE_ENV_PROXY=1 node cli/makefun.mjs grade-local --kit . --bot <this repo> --driver docker
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
